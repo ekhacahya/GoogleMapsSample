@@ -1,1 +1,1 @@
-# GoogleMapsSample
+# MapsPHPMySQL-Android

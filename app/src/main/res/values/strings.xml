@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sekolah Indonesia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_daftar__sekolah">Daftar Sekolah Indonesia</string>
+    <string name="title_activity_activity_dua">Daftar Sekolah Indonesia</string>
+    <string name="title_activity_maps">Map Sekolah</string>
+</resources>
